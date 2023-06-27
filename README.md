@@ -1,7 +1,6 @@
 # BattleSalvo 
 
 Collaborators: Jennifer Cheung, Marcus Feng <br>  
-***Code is Available Upon Request***
 
 ## Introduction 
 
