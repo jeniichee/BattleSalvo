@@ -9,7 +9,7 @@ BattleSalvo is a command-line rendition in Java of the classic game Battleship, 
 ## Features
 
 The game supports both a single-player mode against an AI opponent, and a multiplayer mode 
-using sockets for comunication. Client to server communcication protocol implements JSON encoding. The game currently only supports the multiplayer mode based on the provided `Server.jar` file, and will further support other servers in future development. 
+using sockets for communication. Client to server communication protocol implements JSON encoding. The game currently only supports the multiplayer mode based on the provided `Server.jar` file, and will further support other servers in future development. 
 
 ## The Twist
 
