@@ -4,7 +4,7 @@ Collaborators: Jennifer Cheung, Marcus Feng <br>
 
 ## Introduction 
 
-BattleSalvo is a command-line renedition in Java of the classic game Battleship, with a few twists to it. 
+BattleSalvo is a command-line rendition in Java of the classic game Battleship, with a few twists to it. 
 
 ## Features
 
